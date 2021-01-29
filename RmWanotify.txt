@@ -1,0 +1,9 @@
+{
+ "type":"banner",
+ "banner_url":"https://telegra.ph/RMWhatsApp-01-21",
+ "title":"Try our mod 🚀",
+ "description":"Best mod ever :)",
+ "button_url":"test",
+ "url":"https://www.youtube.com/channel/UC50f4bEftO8bfzTQIqhhBtg",
+ "id":"ad0101010o1"
+}

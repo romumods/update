@@ -1,0 +1,53 @@
+[
+{
+   "title":"Do you have youtube 🌟",
+   "description":"Subscribe to our channel 🔔",
+   "request":"null",
+   "type":"official",
+   "ok":"Subscribe",
+   "cancell":"cancel",
+   "ok_toast":"Approve :)",
+   "cancell_toast":"Okay, try later?",
+   "is_web":"https://www.youtube.com/channel/UC50f4bEftO8bfzTQIqhhBtg",
+   "id":"00000101",
+   "cancelable":"false"
+},
+{
+   "title":"Do you have Telegram",
+   "description":"Join telegram for new projects 🤏",
+   "request":"null",
+   "type":"official",
+   "ok":"participate",
+   "cancell":"cancel",
+   "ok_toast":"Mwala 🇧🇷👍",
+   "cancell_toast":"",
+   "is_web":"https://t.me/romumods",
+   "id":"000014",
+   "cancelable":"false"
+},
+{
+   "title":"Watch RMWhatsApp Video?",
+   "description":"Follow this link for more",
+   "request":"null",
+   "type":"official",
+   "ok":"watch",
+   "cancell":"cancel",
+   "ok_toast":"",
+   "cancell_toast":"",
+   "is_web":"https://youtu.be/T1QtNQr2v24",
+   "id":"000Aph1",
+   "cancelable":"false"
+},
+{
+   "title":"Follow developer",
+   "description":"Follow me on instagram for latest updates of RMWa 🔈",
+   "request":"null",
+   "type":"official",
+   "ok":"Follow",
+   "cancell":"Cancel",
+   "ok_toast":"Thanks ^-^",
+   "cancell_toast":"Later",
+   "is_web":"https://instagram.com/romu1k",
+   "id":"0000@3",
+   "cancelable":"false"
+}]

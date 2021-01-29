@@ -1,0 +1,11 @@
+{
+ "version":"8.70.3",
+ "expire860":"125",
+ "expire850":"365",
+ "expire870":"365",
+ "rewards":"https://telegra.ph/RMWhatsApp-01-21",
+ "title":"Atualization",
+ "description":"〽️ Exclusive Added Voice Changer for voice notes (Chat > 3-dot > Voice Changer). Record voice note and send.🎤\n〽️ Exclusive Added preview and confirm before sending sticker (RMMods > Conversation)\n〽️ Added Option to delete downloaded emojis packs\n〽️ Added Archived row in home screen now takes themes color\n〽️ Fixed Slow messages sending in groups\n〽️ Other WA extended deadline for new privacy policy to 15 May.\n〽️ Misc Many other fixes and improvements",
+ "download":"https://t.me/romumods/170111",
+ "force":"true"
+}
